@@ -1,0 +1,13 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package parcialbustamanterodrigo;
+
+/**
+ *
+ * @author Punto Digital
+ */
+public abstract class Terrestre extends Vehiculo {
+    
+}
